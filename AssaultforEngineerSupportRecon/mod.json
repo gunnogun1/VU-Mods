@@ -1,0 +1,9 @@
+{
+	"Name": "AssaultforEngineerSupportRecon",
+	"Authors": ["Tsar_Gunny"],
+	"Description": "",
+	"URL": "",
+	"Version": "1.0.0",
+	"HasWebUI": false,
+	"HasVeniceEXT": true
+}
